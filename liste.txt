@@ -1,6 +1,6 @@
 Youtube Uygulaması 4 Özelliği
+3 Video Yükleme
 1 Video İzleme
 2 Yorum Yapma
-3 Video Yükleme
 4 Kanala Abone Olma
 5 Video Beğenme
